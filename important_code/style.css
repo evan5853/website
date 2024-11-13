@@ -1,0 +1,17 @@
+body{
+  background-color: Darkgrey;
+}
+#hacker_green{
+	color:green
+}
+#err_red{
+	color:red
+}
+#vry_small{
+	font-size: 1px
+}
+.custom{
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+#download_blue{
+	color:lightblue
